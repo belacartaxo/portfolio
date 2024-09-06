@@ -5,7 +5,7 @@ import Cover from './Cover';
 function Main() {
   return (
     <main className="Main">
-        <Cover />
+        <Cover id="tsparticles" />
     </main>
   );
 }
